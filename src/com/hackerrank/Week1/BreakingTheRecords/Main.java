@@ -1,4 +1,4 @@
-package com.hackerrank.BreakingTheRecords;
+package com.hackerrank.Week1.BreakingTheRecords;
 
 import java.io.*;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.hackerrank.MinMaxSum;
+package com.hackerrank.Week1.MinMaxSum;
 import java.util.*;
 
 class Result {

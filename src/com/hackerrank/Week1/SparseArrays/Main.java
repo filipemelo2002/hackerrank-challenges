@@ -1,4 +1,4 @@
-package com.hackerrank.SparseArrays;
+package com.hackerrank.Week1.SparseArrays;
 
 import java.io.*;
 import java.util.List;

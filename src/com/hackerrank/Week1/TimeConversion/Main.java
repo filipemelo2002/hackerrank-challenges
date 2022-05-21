@@ -1,4 +1,4 @@
-package com.hackerrank.TimeConversion;
+package com.hackerrank.Week1.TimeConversion;
 
 import java.io.*;
 

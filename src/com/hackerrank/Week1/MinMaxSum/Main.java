@@ -1,4 +1,4 @@
-package com.hackerrank.MinMaxSum;
+package com.hackerrank.Week1.MinMaxSum;
 
 import java.io.BufferedReader;
 import java.io.IOException;

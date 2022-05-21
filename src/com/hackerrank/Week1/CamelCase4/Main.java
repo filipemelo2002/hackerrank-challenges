@@ -1,4 +1,4 @@
-package com.hackerrank.CamelCase4;
+package com.hackerrank.Week1.CamelCase4;
 
 import java.util.Locale;
 import java.util.Scanner;

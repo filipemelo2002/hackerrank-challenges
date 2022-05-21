@@ -1,4 +1,4 @@
-package com.hackerrank.DivisbleSumPairs;
+package com.hackerrank.Week1.DivisbleSumPairs;
 
 import java.util.ArrayList;
 import java.util.List;

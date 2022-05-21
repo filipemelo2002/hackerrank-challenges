@@ -1,4 +1,4 @@
-package com.hackerrank.PlusMinus;
+package com.hackerrank.Week1.PlusMinus;
 
 import java.util.*;
 
